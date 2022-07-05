@@ -1,7 +1,11 @@
 # media-bias-shared-news-on-Twitter
 
+The details of the codeset and plots are included in the attached Microsoft Word Document (.docx) file in this repository. 
+You need to view the file in "Read Mode" to see the contents properly after downloading the same.
+
 
 Introduction
+================
 
 This post provides a brief description of methods for quantifying political bias of online news media based on the media-sharing habits of US lawmakers on Twitter.  Here, the focus is on a more streamlined (and multi-threaded) approach to resolving shortened URLs via the quicknews package. We also present unsupervised methods for visualizing media bias in two-dimensional space via tSNE, and compare results to the manually curated fact and bias checking online resource, Media Bias/Fact Check (MBFC), with some fairly nice results.
 
